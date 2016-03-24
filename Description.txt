@@ -1,0 +1,7 @@
+IOS Word Scramble app 
+Concepts:
+NSString,
+closures,
+method return values 
+Booleans 
+NSRange 
